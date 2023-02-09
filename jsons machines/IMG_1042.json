@@ -1,0 +1,16 @@
+{
+    "detection": [
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.6122499704360962,
+            "det_y": 0.5,
+            "det_w": 0.7754999995231628,
+            "det_h": 1.0,
+            "det_score": 0.2681417763233185
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_1042.JPG",
+    "img_name": "IMG_1042",
+    "img_id": "74dbe6aadd97e1aea58a1ea497ab39a976e57e7ad2e13be417d6a65f93de5faf"
+}

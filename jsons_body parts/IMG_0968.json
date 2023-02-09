@@ -1,0 +1,16 @@
+{
+    "detection": [
+        {
+            "det_cat": 22,
+            "det_name": "Robot_BaseArm",
+            "det_x": 0.5928333401679993,
+            "det_y": 0.8519999980926514,
+            "det_w": 0.08166666328907013,
+            "det_h": 0.29600000381469727,
+            "det_score": 0.2602730691432953
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0968.JPG",
+    "img_name": "IMG_0968",
+    "img_id": "acaae46ee4168bb6b7605f0d305d5ccb4557c67d786e502e4d0f503f8d9b7083"
+}

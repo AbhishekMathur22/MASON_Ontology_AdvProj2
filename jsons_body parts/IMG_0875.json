@@ -1,0 +1,25 @@
+{
+    "detection": [
+        {
+            "det_cat": 24,
+            "det_name": "Robot_UpperArm",
+            "det_x": 0.8823333382606506,
+            "det_y": 0.10474999994039536,
+            "det_w": 0.23533333837985992,
+            "det_h": 0.2094999998807907,
+            "det_score": 0.3626410663127899
+        },
+        {
+            "det_cat": 18,
+            "det_name": "MillingMachine_Controls",
+            "det_x": 0.559249997138977,
+            "det_y": 0.33637499809265137,
+            "det_w": 0.039500001817941666,
+            "det_h": 0.18125000596046448,
+            "det_score": 0.40473535656929016
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0875.JPG",
+    "img_name": "IMG_0875",
+    "img_id": "3e6a096e999dd404cfbcdfe3969643fc5d9820bd839ca9d9ed95c6cad9ce82e6"
+}

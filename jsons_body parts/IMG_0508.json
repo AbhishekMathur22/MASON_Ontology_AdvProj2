@@ -1,0 +1,16 @@
+{
+    "detection": [
+        {
+            "det_cat": 5,
+            "det_name": "Conveyors_BaseRoller",
+            "det_x": 0.35100001096725464,
+            "det_y": 0.6848750114440918,
+            "det_w": 0.7020000219345093,
+            "det_h": 0.6302499771118164,
+            "det_score": 0.3157915472984314
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0508.JPG",
+    "img_name": "IMG_0508",
+    "img_id": "ef0fea40a2f9d2bb6a3165a1e8b8b06822918e6a93cca3539be9dd5ac752157b"
+}

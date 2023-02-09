@@ -1,0 +1,25 @@
+{
+    "detection": [
+        {
+            "det_cat": 6,
+            "det_name": "Robot",
+            "det_x": 0.6445833444595337,
+            "det_y": 0.4505000114440918,
+            "det_w": 0.3778333365917206,
+            "det_h": 0.9010000228881836,
+            "det_score": 0.3939669132232666
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Robot",
+            "det_x": 0.6444166898727417,
+            "det_y": 0.4191249907016754,
+            "det_w": 0.28216665983200073,
+            "det_h": 0.7472500205039978,
+            "det_score": 0.5539345741271973
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0590.JPG",
+    "img_name": "IMG_0590",
+    "img_id": "db45f89e7a1463faf7aeeb1c4c146ec01317d63e3f0e5f66fccc7581ccdc5ed9"
+}

@@ -1,0 +1,34 @@
+{
+    "detection": [
+        {
+            "det_cat": 0,
+            "det_name": "Printer3D_Body",
+            "det_x": 0.5448333621025085,
+            "det_y": 0.4271250069141388,
+            "det_w": 0.17299999296665192,
+            "det_h": 0.30125001072883606,
+            "det_score": 0.27440130710601807
+        },
+        {
+            "det_cat": 19,
+            "det_name": "MillingMachine_HandWheel",
+            "det_x": 0.3903333246707916,
+            "det_y": 0.5951250195503235,
+            "det_w": 0.044333335012197495,
+            "det_h": 0.09224999696016312,
+            "det_score": 0.3711906373500824
+        },
+        {
+            "det_cat": 18,
+            "det_name": "MillingMachine_Controls",
+            "det_x": 0.5491666793823242,
+            "det_y": 0.4267500042915344,
+            "det_w": 0.2446666657924652,
+            "det_h": 0.28850001096725464,
+            "det_score": 0.41850244998931885
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0652.JPG",
+    "img_name": "IMG_0652",
+    "img_id": "dc25c45662c781d48cccc427f90e65e66f5d2df1c73f139487cad5c246851d55"
+}

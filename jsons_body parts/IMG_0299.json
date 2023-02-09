@@ -1,0 +1,43 @@
+{
+    "detection": [
+        {
+            "det_cat": 24,
+            "det_name": "Robot_UpperArm",
+            "det_x": 0.7049999833106995,
+            "det_y": 0.3686249852180481,
+            "det_w": 0.2473333328962326,
+            "det_h": 0.14875000715255737,
+            "det_score": 0.25839269161224365
+        },
+        {
+            "det_cat": 23,
+            "det_name": "Robot_Head",
+            "det_x": 0.7280833125114441,
+            "det_y": 0.3815000057220459,
+            "det_w": 0.15583333373069763,
+            "det_h": 0.11649999767541885,
+            "det_score": 0.5318058133125305
+        },
+        {
+            "det_cat": 22,
+            "det_name": "Robot_BaseArm",
+            "det_x": 0.6817499995231628,
+            "det_y": 0.5923749804496765,
+            "det_w": 0.22583332657814026,
+            "det_h": 0.6007500290870667,
+            "det_score": 0.5792628526687622
+        },
+        {
+            "det_cat": 24,
+            "det_name": "Robot_UpperArm",
+            "det_x": 0.684166669845581,
+            "det_y": 0.30524998903274536,
+            "det_w": 0.19833333790302277,
+            "det_h": 0.16699999570846558,
+            "det_score": 0.7472328543663025
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0299.JPG",
+    "img_name": "IMG_0299",
+    "img_id": "a4b29d449e4cdee7a68d98adaeba2b3d852386683bf6e2611a0e726de74c52d7"
+}

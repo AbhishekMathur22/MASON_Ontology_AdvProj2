@@ -1,0 +1,34 @@
+{
+    "detection": [
+        {
+            "det_cat": 3,
+            "det_name": "Lathe",
+            "det_x": 0.5899999737739563,
+            "det_y": 0.5161250233650208,
+            "det_w": 0.21033333241939545,
+            "det_h": 0.38324999809265137,
+            "det_score": 0.29005441069602966
+        },
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.38449999690055847,
+            "det_y": 0.6341249942779541,
+            "det_w": 0.22966666519641876,
+            "det_h": 0.3097499907016754,
+            "det_score": 0.33189260959625244
+        },
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.3786666691303253,
+            "det_y": 0.640749990940094,
+            "det_w": 0.2433333396911621,
+            "det_h": 0.1835000067949295,
+            "det_score": 0.4868868887424469
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0869.JPG",
+    "img_name": "IMG_0869",
+    "img_id": "e6048d41d28d84c967ab7d537ba03f07e558e6f2cf4856be4f5555010c7e67c5"
+}

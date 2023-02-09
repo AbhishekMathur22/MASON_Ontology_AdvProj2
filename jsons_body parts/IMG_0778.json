@@ -1,0 +1,52 @@
+{
+    "detection": [
+        {
+            "det_cat": 1,
+            "det_name": "Printer3D_Filament",
+            "det_x": 0.5732499957084656,
+            "det_y": 0.7457500100135803,
+            "det_w": 0.043166667222976685,
+            "det_h": 0.08950000256299973,
+            "det_score": 0.2605440020561218
+        },
+        {
+            "det_cat": 18,
+            "det_name": "MillingMachine_Controls",
+            "det_x": 0.38108333945274353,
+            "det_y": 0.4351249933242798,
+            "det_w": 0.03816666826605797,
+            "det_h": 0.08375000208616257,
+            "det_score": 0.2920466959476471
+        },
+        {
+            "det_cat": 19,
+            "det_name": "MillingMachine_HandWheel",
+            "det_x": 0.5720000267028809,
+            "det_y": 0.7463750243186951,
+            "det_w": 0.02500000037252903,
+            "det_h": 0.07175000011920929,
+            "det_score": 0.29473522305488586
+        },
+        {
+            "det_cat": 18,
+            "det_name": "MillingMachine_Controls",
+            "det_x": 0.4909999966621399,
+            "det_y": 0.4194999933242798,
+            "det_w": 0.07966666668653488,
+            "det_h": 0.2029999941587448,
+            "det_score": 0.4613910913467407
+        },
+        {
+            "det_cat": 21,
+            "det_name": "MillingMachine_WorkTable",
+            "det_x": 0.5178333520889282,
+            "det_y": 0.6747499704360962,
+            "det_w": 0.2473333328962326,
+            "det_h": 0.09200000017881393,
+            "det_score": 0.540370523929596
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0778.JPG",
+    "img_name": "IMG_0778",
+    "img_id": "dcab2610614a5bff415829c0d7bb0a84685ed1898eec9f0f7b030ead5e6e5946"
+}

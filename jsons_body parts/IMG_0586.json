@@ -1,0 +1,43 @@
+{
+    "detection": [
+        {
+            "det_cat": 6,
+            "det_name": "Conveyors_Bed",
+            "det_x": 0.13433332741260529,
+            "det_y": 0.596750020980835,
+            "det_w": 0.26866665482521057,
+            "det_h": 0.4129999876022339,
+            "det_score": 0.268894225358963
+        },
+        {
+            "det_cat": 23,
+            "det_name": "Robot_Head",
+            "det_x": 0.6235833168029785,
+            "det_y": 0.48237499594688416,
+            "det_w": 0.07850000262260437,
+            "det_h": 0.28725001215934753,
+            "det_score": 0.40358203649520874
+        },
+        {
+            "det_cat": 22,
+            "det_name": "Robot_BaseArm",
+            "det_x": 0.7431666851043701,
+            "det_y": 0.47337499260902405,
+            "det_w": 0.13600000739097595,
+            "det_h": 0.49825000762939453,
+            "det_score": 0.5395544767379761
+        },
+        {
+            "det_cat": 22,
+            "det_name": "Robot_BaseArm",
+            "det_x": 0.7472500205039978,
+            "det_y": 0.4778749942779541,
+            "det_w": 0.1784999966621399,
+            "det_h": 0.6347500085830688,
+            "det_score": 0.6291032433509827
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0586.JPG",
+    "img_name": "IMG_0586",
+    "img_id": "dde30607dd03f93b33f5b17db1379d8ba70ed6ef8dce05ff20ae7e8af38dc88f"
+}

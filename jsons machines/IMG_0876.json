@@ -1,0 +1,25 @@
+{
+    "detection": [
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.2772499918937683,
+            "det_y": 0.7123749852180481,
+            "det_w": 0.40016666054725647,
+            "det_h": 0.5752500295639038,
+            "det_score": 0.25111842155456543
+        },
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.31325000524520874,
+            "det_y": 0.6823750138282776,
+            "det_w": 0.6101666688919067,
+            "det_h": 0.6352499723434448,
+            "det_score": 0.47774532437324524
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0876.JPG",
+    "img_name": "IMG_0876",
+    "img_id": "69871d4c45231d59fe10cbb89ad5ab132b2365a86c148e4d2cc3230336bf03ed"
+}

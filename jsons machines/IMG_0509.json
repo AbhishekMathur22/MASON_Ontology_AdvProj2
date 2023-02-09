@@ -1,0 +1,16 @@
+{
+    "detection": [
+        {
+            "det_cat": 1,
+            "det_name": "Conveyors",
+            "det_x": 0.6150833368301392,
+            "det_y": 0.47862499952316284,
+            "det_w": 0.4975000023841858,
+            "det_h": 0.6387500166893005,
+            "det_score": 0.29184699058532715
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0509.JPG",
+    "img_name": "IMG_0509",
+    "img_id": "60e5d4983687fdb3b2c5d78db60d23510f7e799e6311824387accc03b5c15a51"
+}

@@ -1,0 +1,61 @@
+{
+    "detection": [
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.9557499885559082,
+            "det_y": 0.7507500052452087,
+            "det_w": 0.0885000005364418,
+            "det_h": 0.24549999833106995,
+            "det_score": 0.3025999963283539
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.7371666431427002,
+            "det_y": 0.8262500166893005,
+            "det_w": 0.30133333802223206,
+            "det_h": 0.3474999964237213,
+            "det_score": 0.42368870973587036
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.7400000095367432,
+            "det_y": 0.8429999947547913,
+            "det_w": 0.28299999237060547,
+            "det_h": 0.2529999911785126,
+            "det_score": 0.4281955361366272
+        },
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.6988333463668823,
+            "det_y": 0.6673750281333923,
+            "det_w": 0.15666666626930237,
+            "det_h": 0.3307499885559082,
+            "det_score": 0.429413765668869
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Printer3D",
+            "det_x": 0.8853333592414856,
+            "det_y": 0.3698750138282776,
+            "det_w": 0.1496666669845581,
+            "det_h": 0.21574999392032623,
+            "det_score": 0.43292662501335144
+        },
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.6977499723434448,
+            "det_y": 0.6654999852180481,
+            "det_w": 0.1821666657924652,
+            "det_h": 0.16949999332427979,
+            "det_score": 0.5355229377746582
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_1063.JPG",
+    "img_name": "IMG_1063",
+    "img_id": "2bf6073a4cb600296c7ea300c5b223aee2073fe0a6881be6d3c6cac6372eff1a"
+}

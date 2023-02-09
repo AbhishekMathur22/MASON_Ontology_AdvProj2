@@ -1,0 +1,25 @@
+{
+    "detection": [
+        {
+            "det_cat": 18,
+            "det_name": "MillingMachine_Controls",
+            "det_x": 0.47850000858306885,
+            "det_y": 0.43950000405311584,
+            "det_w": 0.04699999839067459,
+            "det_h": 0.18400000035762787,
+            "det_score": 0.2552962601184845
+        },
+        {
+            "det_cat": 18,
+            "det_name": "MillingMachine_Controls",
+            "det_x": 0.4763333201408386,
+            "det_y": 0.43849998712539673,
+            "det_w": 0.032999999821186066,
+            "det_h": 0.14100000262260437,
+            "det_score": 0.41278988122940063
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0891.JPG",
+    "img_name": "IMG_0891",
+    "img_id": "2933d7fcbfd26ad4933d7a787602664a2e0f0636b41ea2d1b9f225eddb23e080"
+}

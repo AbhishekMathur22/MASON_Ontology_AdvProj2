@@ -1,0 +1,25 @@
+{
+    "detection": [
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.38999998569488525,
+            "det_y": 0.46437498927116394,
+            "det_w": 0.1993333399295807,
+            "det_h": 0.3307499885559082,
+            "det_score": 0.25370630621910095
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Printer3D",
+            "det_x": 0.7705000042915344,
+            "det_y": 0.46412500739097595,
+            "det_w": 0.21199999749660492,
+            "det_h": 0.3122499883174896,
+            "det_score": 0.3666027784347534
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0921.JPG",
+    "img_name": "IMG_0921",
+    "img_id": "d249f3903f971681fd79510d8fc604225ca5213b7b8ba4de676b1d74e5c65d34"
+}

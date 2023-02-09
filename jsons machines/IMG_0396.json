@@ -1,0 +1,52 @@
+{
+    "detection": [
+        {
+            "det_cat": 5,
+            "det_name": "Printer3D",
+            "det_x": 0.4089166522026062,
+            "det_y": 0.3871249854564667,
+            "det_w": 0.17649999260902405,
+            "det_h": 0.4372499883174896,
+            "det_score": 0.3793960213661194
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Robot",
+            "det_x": 0.17158333957195282,
+            "det_y": 0.5,
+            "det_w": 0.34316667914390564,
+            "det_h": 1.0,
+            "det_score": 0.4378105401992798
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Printer3D",
+            "det_x": 0.3930833339691162,
+            "det_y": 0.3876250088214874,
+            "det_w": 0.2121666669845581,
+            "det_h": 0.2552500069141388,
+            "det_score": 0.6247038245201111
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Printer3D",
+            "det_x": 0.5446666479110718,
+            "det_y": 0.40412500500679016,
+            "det_w": 0.1456666737794876,
+            "det_h": 0.414249986410141,
+            "det_score": 0.626825749874115
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Printer3D",
+            "det_x": 0.5460000038146973,
+            "det_y": 0.4099999964237213,
+            "det_w": 0.13333334028720856,
+            "det_h": 0.24899999797344208,
+            "det_score": 0.6885238289833069
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0396.JPG",
+    "img_name": "IMG_0396",
+    "img_id": "bf1c3a7a94ca3deb5c2681eb1eb378e0fc07723bdc6083408a71410a17b05914"
+}

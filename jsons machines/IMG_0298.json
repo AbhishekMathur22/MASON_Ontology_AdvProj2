@@ -1,0 +1,16 @@
+{
+    "detection": [
+        {
+            "det_cat": 6,
+            "det_name": "Robot",
+            "det_x": 0.5450000166893005,
+            "det_y": 0.5527499914169312,
+            "det_w": 0.14533333480358124,
+            "det_h": 0.4424999952316284,
+            "det_score": 0.6145116686820984
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0298.JPG",
+    "img_name": "IMG_0298",
+    "img_id": "b7088a633873fe5231d991b5941fe35a5d980f0860859b93dd6bb1e02cf11d68"
+}

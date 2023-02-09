@@ -1,0 +1,16 @@
+{
+    "detection": [
+        {
+            "det_cat": 6,
+            "det_name": "Conveyors_Bed",
+            "det_x": 0.6234166622161865,
+            "det_y": 0.47737500071525574,
+            "det_w": 0.20883333683013916,
+            "det_h": 0.14775000512599945,
+            "det_score": 0.3661862313747406
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0516.JPG",
+    "img_name": "IMG_0516",
+    "img_id": "6e856ba06ac92058a40c131dbb2b3e9197a5bedf5a492b2134b0b43a0f55de3b"
+}

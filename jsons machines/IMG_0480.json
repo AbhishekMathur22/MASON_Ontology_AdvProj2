@@ -1,0 +1,25 @@
+{
+    "detection": [
+        {
+            "det_cat": 1,
+            "det_name": "Conveyors",
+            "det_x": 0.6127499938011169,
+            "det_y": 0.47699999809265137,
+            "det_w": 0.577833354473114,
+            "det_h": 0.4494999945163727,
+            "det_score": 0.4133356511592865
+        },
+        {
+            "det_cat": 1,
+            "det_name": "Conveyors",
+            "det_x": 0.6186666488647461,
+            "det_y": 0.5362499952316284,
+            "det_w": 0.606333315372467,
+            "det_h": 0.7524999976158142,
+            "det_score": 0.6223064661026001
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0480.JPG",
+    "img_name": "IMG_0480",
+    "img_id": "9400ce82471bdf74717cdb427fbc37fc306c84eceaaef8fc17991e3e9a040bc5"
+}

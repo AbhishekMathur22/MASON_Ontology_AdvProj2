@@ -1,0 +1,16 @@
+{
+    "detection": [
+        {
+            "det_cat": 2,
+            "det_name": "Drillpress",
+            "det_x": 0.4780833423137665,
+            "det_y": 0.5,
+            "det_w": 0.5385000109672546,
+            "det_h": 1.0,
+            "det_score": 0.46244126558303833
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0880.JPG",
+    "img_name": "IMG_0880",
+    "img_id": "2cdd51fff3ecec0261a6c5012c02e6733aff820a668148e30fb56de067e6263d"
+}

@@ -1,0 +1,43 @@
+{
+    "detection": [
+        {
+            "det_cat": 5,
+            "det_name": "Printer3D",
+            "det_x": 0.6321666836738586,
+            "det_y": 0.5348749756813049,
+            "det_w": 0.14633333683013916,
+            "det_h": 0.3647499978542328,
+            "det_score": 0.5220668911933899
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Printer3D",
+            "det_x": 0.5034166574478149,
+            "det_y": 0.5227500200271606,
+            "det_w": 0.15216666460037231,
+            "det_h": 0.3479999899864197,
+            "det_score": 0.5511005520820618
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Printer3D",
+            "det_x": 0.4973333477973938,
+            "det_y": 0.5217499732971191,
+            "det_w": 0.16899999976158142,
+            "det_h": 0.21199999749660492,
+            "det_score": 0.6354106664657593
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Printer3D",
+            "det_x": 0.6315000057220459,
+            "det_y": 0.5332499742507935,
+            "det_w": 0.12933333218097687,
+            "det_h": 0.20649999380111694,
+            "det_score": 0.6726735830307007
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0379.JPG",
+    "img_name": "IMG_0379",
+    "img_id": "cc3c52377f2892ddc86896903298fa66344e0c6b3b5268b99d98b73b3f89a385"
+}

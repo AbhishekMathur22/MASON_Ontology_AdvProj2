@@ -1,0 +1,25 @@
+{
+    "detection": [
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.8964166641235352,
+            "det_y": 0.5899999737739563,
+            "det_w": 0.17383334040641785,
+            "det_h": 0.3449999988079071,
+            "det_score": 0.4785468578338623
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.5764999985694885,
+            "det_y": 0.5,
+            "det_w": 0.7266666889190674,
+            "det_h": 1.0,
+            "det_score": 0.6044784784317017
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0742.JPG",
+    "img_name": "IMG_0742",
+    "img_id": "cb8a055c5e5c335f931bccb183c79fb197db4726dec06e8f836d8e1a098addde"
+}

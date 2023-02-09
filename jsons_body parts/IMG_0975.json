@@ -1,0 +1,34 @@
+{
+    "detection": [
+        {
+            "det_cat": 22,
+            "det_name": "Robot_BaseArm",
+            "det_x": 0.4897499978542328,
+            "det_y": 0.6362500190734863,
+            "det_w": 0.11249999701976776,
+            "det_h": 0.33399999141693115,
+            "det_score": 0.27079206705093384
+        },
+        {
+            "det_cat": 18,
+            "det_name": "MillingMachine_Controls",
+            "det_x": 0.468916654586792,
+            "det_y": 0.2718749940395355,
+            "det_w": 0.07349999994039536,
+            "det_h": 0.23274999856948853,
+            "det_score": 0.41387924551963806
+        },
+        {
+            "det_cat": 18,
+            "det_name": "MillingMachine_Controls",
+            "det_x": 0.47049999237060547,
+            "det_y": 0.2706249952316284,
+            "det_w": 0.046666666865348816,
+            "det_h": 0.18324999511241913,
+            "det_score": 0.46979254484176636
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0975.JPG",
+    "img_name": "IMG_0975",
+    "img_id": "c035ec5df1056c055b0fe2cdf8a5a8bf716376cf707a03aee48a1e2507d0fa35"
+}

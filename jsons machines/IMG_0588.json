@@ -1,0 +1,34 @@
+{
+    "detection": [
+        {
+            "det_cat": 1,
+            "det_name": "Conveyors",
+            "det_x": 0.2747499942779541,
+            "det_y": 0.5120000243186951,
+            "det_w": 0.5494999885559082,
+            "det_h": 0.34599998593330383,
+            "det_score": 0.3918907940387726
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Robot",
+            "det_x": 0.9133333563804626,
+            "det_y": 0.29225000739097595,
+            "det_w": 0.1459999978542328,
+            "det_h": 0.3440000116825104,
+            "det_score": 0.48799043893814087
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Robot",
+            "det_x": 0.6867499947547913,
+            "det_y": 0.4466249942779541,
+            "det_w": 0.15549999475479126,
+            "det_h": 0.34325000643730164,
+            "det_score": 0.710202693939209
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0588.JPG",
+    "img_name": "IMG_0588",
+    "img_id": "7280834a8144bdd1bf07d3a09307b09028f1050aa5c8bbd9e4d7c89b1e3bfb17"
+}

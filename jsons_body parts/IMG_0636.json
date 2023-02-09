@@ -1,0 +1,34 @@
+{
+    "detection": [
+        {
+            "det_cat": 21,
+            "det_name": "MillingMachine_WorkTable",
+            "det_x": 0.40808331966400146,
+            "det_y": 0.5293750166893005,
+            "det_w": 0.2631666660308838,
+            "det_h": 0.1967500001192093,
+            "det_score": 0.37082231044769287
+        },
+        {
+            "det_cat": 18,
+            "det_name": "MillingMachine_Controls",
+            "det_x": 0.753000020980835,
+            "det_y": 0.40562498569488525,
+            "det_w": 0.25333333015441895,
+            "det_h": 0.30024999380111694,
+            "det_score": 0.3914279639720917
+        },
+        {
+            "det_cat": 19,
+            "det_name": "MillingMachine_HandWheel",
+            "det_x": 0.48774999380111694,
+            "det_y": 0.7257500290870667,
+            "det_w": 0.0494999997317791,
+            "det_h": 0.12099999934434891,
+            "det_score": 0.5304533839225769
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0636.JPG",
+    "img_name": "IMG_0636",
+    "img_id": "70c42fd6c614a479348bb85dbf23219ce3d8b231c637075b9e1ecca3c8f14de2"
+}

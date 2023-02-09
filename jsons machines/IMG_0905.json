@@ -1,0 +1,34 @@
+{
+    "detection": [
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.1264999955892563,
+            "det_y": 0.3863750100135803,
+            "det_w": 0.11999999731779099,
+            "det_h": 0.24175000190734863,
+            "det_score": 0.30658403038978577
+        },
+        {
+            "det_cat": 2,
+            "det_name": "Drillpress",
+            "det_x": 0.5769166946411133,
+            "det_y": 0.5112500190734863,
+            "det_w": 0.30683332681655884,
+            "det_h": 0.9775000214576721,
+            "det_score": 0.41930022835731506
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.35741665959358215,
+            "det_y": 0.3933750092983246,
+            "det_w": 0.21150000393390656,
+            "det_h": 0.36524999141693115,
+            "det_score": 0.42095303535461426
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0905.JPG",
+    "img_name": "IMG_0905",
+    "img_id": "7d9fb83fc8902b12c0df8a76a61a90d4c2e701f394e608a486a8af7088188b3f"
+}

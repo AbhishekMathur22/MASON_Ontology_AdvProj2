@@ -1,0 +1,52 @@
+{
+    "detection": [
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.4494999945163727,
+            "det_y": 0.257874995470047,
+            "det_w": 0.16200000047683716,
+            "det_h": 0.328249990940094,
+            "det_score": 0.39102938771247864
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.9598333239555359,
+            "det_y": 0.609749972820282,
+            "det_w": 0.08033332973718643,
+            "det_h": 0.5519999861717224,
+            "det_score": 0.4352777600288391
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.7754166722297668,
+            "det_y": 0.2874999940395355,
+            "det_w": 0.19249999523162842,
+            "det_h": 0.2849999964237213,
+            "det_score": 0.4468494653701782
+        },
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.4546666741371155,
+            "det_y": 0.26600000262260437,
+            "det_w": 0.16633333265781403,
+            "det_h": 0.1965000033378601,
+            "det_score": 0.48336076736450195
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.5373333096504211,
+            "det_y": 0.5832499861717224,
+            "det_w": 0.28033334016799927,
+            "det_h": 0.6309999823570251,
+            "det_score": 0.6229164600372314
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0728.JPG",
+    "img_name": "IMG_0728",
+    "img_id": "841886ae63fd9e0176aa2dff062ec88d98232072ed183e696a22205ec0134a47"
+}

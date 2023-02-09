@@ -1,0 +1,25 @@
+{
+    "detection": [
+        {
+            "det_cat": 23,
+            "det_name": "Robot_Head",
+            "det_x": 0.44999998807907104,
+            "det_y": 0.46149998903274536,
+            "det_w": 0.02500000037252903,
+            "det_h": 0.13850000500679016,
+            "det_score": 0.28795725107192993
+        },
+        {
+            "det_cat": 18,
+            "det_name": "MillingMachine_Controls",
+            "det_x": 0.41066667437553406,
+            "det_y": 0.2526249885559082,
+            "det_w": 0.10766666382551193,
+            "det_h": 0.32124999165534973,
+            "det_score": 0.41890040040016174
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0898.JPG",
+    "img_name": "IMG_0898",
+    "img_id": "7cad7d5bf873d8e110b43b9cc3f3bd870605f85bdd937178e6cd18108a09da51"
+}

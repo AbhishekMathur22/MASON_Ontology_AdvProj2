@@ -1,0 +1,25 @@
+{
+    "detection": [
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.20366667211055756,
+            "det_y": 0.09037499874830246,
+            "det_w": 0.20466665923595428,
+            "det_h": 0.18074999749660492,
+            "det_score": 0.3457019031047821
+        },
+        {
+            "det_cat": 2,
+            "det_name": "Drillpress",
+            "det_x": 0.5769166946411133,
+            "det_y": 0.5736250281333923,
+            "det_w": 0.23149999976158142,
+            "det_h": 0.8527500033378601,
+            "det_score": 0.3539573550224304
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0965.JPG",
+    "img_name": "IMG_0965",
+    "img_id": "53d35660d806e21f28fc366a0ada7e4c8edb5b35054a7248bc241f0892517337"
+}

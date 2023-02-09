@@ -1,0 +1,25 @@
+{
+    "detection": [
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.5701666474342346,
+            "det_y": 0.5335000157356262,
+            "det_w": 0.6486666798591614,
+            "det_h": 0.9330000281333923,
+            "det_score": 0.5036221146583557
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.15341666340827942,
+            "det_y": 0.6361250281333923,
+            "det_w": 0.2851666808128357,
+            "det_h": 0.7277500033378601,
+            "det_score": 0.5434806942939758
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0779.JPG",
+    "img_name": "IMG_0779",
+    "img_id": "31572d8d42063092a4acf57ee8d5ee57b0b58a3d1a7e3b21ea8c1ce0aac1a641"
+}

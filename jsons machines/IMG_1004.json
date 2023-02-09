@@ -1,0 +1,61 @@
+{
+    "detection": [
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.9451666474342346,
+            "det_y": 0.46537500619888306,
+            "det_w": 0.10966666787862778,
+            "det_h": 0.46924999356269836,
+            "det_score": 0.2516855001449585
+        },
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.6224166750907898,
+            "det_y": 0.49437499046325684,
+            "det_w": 0.2854999899864197,
+            "det_h": 0.6072499752044678,
+            "det_score": 0.30540087819099426
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.953166663646698,
+            "det_y": 0.4661250114440918,
+            "det_w": 0.09366666525602341,
+            "det_h": 0.3407500088214874,
+            "det_score": 0.3943071663379669
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.8293333053588867,
+            "det_y": 0.3621250092983246,
+            "det_w": 0.17399999499320984,
+            "det_h": 0.3227500021457672,
+            "det_score": 0.41101324558258057
+        },
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.6334999799728394,
+            "det_y": 0.49300000071525574,
+            "det_w": 0.3466666638851166,
+            "det_h": 0.3944999873638153,
+            "det_score": 0.511622965335846
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.46399998664855957,
+            "det_y": 0.40412500500679016,
+            "det_w": 0.2983333468437195,
+            "det_h": 0.48625001311302185,
+            "det_score": 0.5267590880393982
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_1004.JPG",
+    "img_name": "IMG_1004",
+    "img_id": "798df1d2803fc3884ce43e26229cb5ecd5e55a0cc9e47671bccd61035017c1b3"
+}

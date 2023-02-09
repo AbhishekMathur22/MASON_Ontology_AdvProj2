@@ -1,0 +1,25 @@
+{
+    "detection": [
+        {
+            "det_cat": 5,
+            "det_name": "Printer3D",
+            "det_x": 0.29241666197776794,
+            "det_y": 0.47737500071525574,
+            "det_w": 0.203166663646698,
+            "det_h": 0.5027499794960022,
+            "det_score": 0.33970874547958374
+        },
+        {
+            "det_cat": 2,
+            "det_name": "Drillpress",
+            "det_x": 0.5478333234786987,
+            "det_y": 0.5391250252723694,
+            "det_w": 0.2199999988079071,
+            "det_h": 0.8812500238418579,
+            "det_score": 0.346312552690506
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0910.JPG",
+    "img_name": "IMG_0910",
+    "img_id": "ba9ae25046c85d6dcac6ae147526d13d27850224197d18529ad8829efd709642"
+}

@@ -1,0 +1,25 @@
+{
+    "detection": [
+        {
+            "det_cat": 0,
+            "det_name": "Printer3D_Body",
+            "det_x": 0.8143333196640015,
+            "det_y": 0.5518749952316284,
+            "det_w": 0.06066666543483734,
+            "det_h": 0.12224999815225601,
+            "det_score": 0.30801138281822205
+        },
+        {
+            "det_cat": 0,
+            "det_name": "Printer3D_Body",
+            "det_x": 0.8209166526794434,
+            "det_y": 0.5613750219345093,
+            "det_w": 0.08783333003520966,
+            "det_h": 0.19224999845027924,
+            "det_score": 0.3090023100376129
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0918.JPG",
+    "img_name": "IMG_0918",
+    "img_id": "0369aca016a8facffcbad78b821c27e2ea52807c0a2cb5395b5b55a95ed9878a"
+}

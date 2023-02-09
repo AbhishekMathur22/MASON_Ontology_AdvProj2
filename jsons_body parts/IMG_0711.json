@@ -1,0 +1,16 @@
+{
+    "detection": [
+        {
+            "det_cat": 0,
+            "det_name": "Printer3D_Body",
+            "det_x": 0.5130000114440918,
+            "det_y": 0.8008750081062317,
+            "det_w": 0.14533333480358124,
+            "det_h": 0.30274999141693115,
+            "det_score": 0.34445920586586
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0711.JPG",
+    "img_name": "IMG_0711",
+    "img_id": "aa270f5f66275b06cc59bf390cc85c1f80067c111945817a6516efe66dddc01b"
+}

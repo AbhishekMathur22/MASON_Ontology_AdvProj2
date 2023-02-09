@@ -1,0 +1,25 @@
+{
+    "detection": [
+        {
+            "det_cat": 6,
+            "det_name": "Robot",
+            "det_x": 0.7829166650772095,
+            "det_y": 0.40700000524520874,
+            "det_w": 0.4334999918937683,
+            "det_h": 0.8140000104904175,
+            "det_score": 0.255161851644516
+        },
+        {
+            "det_cat": 2,
+            "det_name": "Drillpress",
+            "det_x": 0.5349166393280029,
+            "det_y": 0.45649999380111694,
+            "det_w": 0.2608333230018616,
+            "det_h": 0.6474999785423279,
+            "det_score": 0.2725409269332886
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0914.JPG",
+    "img_name": "IMG_0914",
+    "img_id": "5912529eea964ffb7377dddcf84e2298b6133388eecc147a9b2d6a2c80f5073d"
+}

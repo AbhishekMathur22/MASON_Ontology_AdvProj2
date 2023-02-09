@@ -1,0 +1,25 @@
+{
+    "detection": [
+        {
+            "det_cat": 18,
+            "det_name": "MillingMachine_Controls",
+            "det_x": 0.7550833225250244,
+            "det_y": 0.3540000021457672,
+            "det_w": 0.28816667199134827,
+            "det_h": 0.33000001311302185,
+            "det_score": 0.2655736207962036
+        },
+        {
+            "det_cat": 4,
+            "det_name": "BandSaw_WorkTable",
+            "det_x": 0.43700000643730164,
+            "det_y": 0.7592499852180481,
+            "det_w": 0.7413333058357239,
+            "det_h": 0.2824999988079071,
+            "det_score": 0.28516778349876404
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0633.JPG",
+    "img_name": "IMG_0633",
+    "img_id": "8c95ba312c0ff241dbc657baf41e3322dcfec20086864e0b340b9d6eab8ae67d"
+}

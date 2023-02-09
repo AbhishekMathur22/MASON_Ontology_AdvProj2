@@ -1,0 +1,61 @@
+{
+    "detection": [
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.6184999942779541,
+            "det_y": 0.4339999854564667,
+            "det_w": 0.1850000023841858,
+            "det_h": 0.3490000069141388,
+            "det_score": 0.25298449397087097
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.8725833296775818,
+            "det_y": 0.4338749945163727,
+            "det_w": 0.2548333406448364,
+            "det_h": 0.8612499833106995,
+            "det_score": 0.375745952129364
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.44200000166893005,
+            "det_y": 0.37162500619888306,
+            "det_w": 0.20233333110809326,
+            "det_h": 0.4637500047683716,
+            "det_score": 0.39933040738105774
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.29116666316986084,
+            "det_y": 0.4026249945163727,
+            "det_w": 0.23733332753181458,
+            "det_h": 0.46974998712539673,
+            "det_score": 0.40608200430870056
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.17216666042804718,
+            "det_y": 0.46837499737739563,
+            "det_w": 0.34433332085609436,
+            "det_h": 0.8187500238418579,
+            "det_score": 0.4348146915435791
+        },
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.6243333220481873,
+            "det_y": 0.43924999237060547,
+            "det_w": 0.22366666793823242,
+            "det_h": 0.21899999678134918,
+            "det_score": 0.5003548860549927
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_1045.JPG",
+    "img_name": "IMG_1045",
+    "img_id": "18d132a4d5f1b933009a2beccc30b6003c060e585ba09a329b91e8ee0fa1440a"
+}

@@ -1,0 +1,43 @@
+{
+    "detection": [
+        {
+            "det_cat": 8,
+            "det_name": "Drillpress_Controls",
+            "det_x": 0.5945000052452087,
+            "det_y": 0.374875009059906,
+            "det_w": 0.03799999877810478,
+            "det_h": 0.08574999868869781,
+            "det_score": 0.27040210366249084
+        },
+        {
+            "det_cat": 18,
+            "det_name": "MillingMachine_Controls",
+            "det_x": 0.5946666598320007,
+            "det_y": 0.3777500092983246,
+            "det_w": 0.036666665226221085,
+            "det_h": 0.15549999475479126,
+            "det_score": 0.279406875371933
+        },
+        {
+            "det_cat": 18,
+            "det_name": "MillingMachine_Controls",
+            "det_x": 0.5954999923706055,
+            "det_y": 0.3788749873638153,
+            "det_w": 0.03233333304524422,
+            "det_h": 0.08775000274181366,
+            "det_score": 0.3714900314807892
+        },
+        {
+            "det_cat": 18,
+            "det_name": "MillingMachine_Controls",
+            "det_x": 0.7237499952316284,
+            "det_y": 0.35737499594688416,
+            "det_w": 0.11349999904632568,
+            "det_h": 0.2562499940395355,
+            "det_score": 0.38702356815338135
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0800.JPG",
+    "img_name": "IMG_0800",
+    "img_id": "3637c6fbe0874cee73b188173d46690da1cea7830dc5a3d07d305948012a68be"
+}

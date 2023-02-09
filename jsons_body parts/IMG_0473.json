@@ -1,0 +1,70 @@
+{
+    "detection": [
+        {
+            "det_cat": 7,
+            "det_name": "Conveyors_SlantRoller",
+            "det_x": 0.6142500042915344,
+            "det_y": 0.5801249742507935,
+            "det_w": 0.320166677236557,
+            "det_h": 0.32074999809265137,
+            "det_score": 0.30256369709968567
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Conveyors_Bed",
+            "det_x": 0.8369166851043701,
+            "det_y": 0.5902500152587891,
+            "det_w": 0.32616665959358215,
+            "det_h": 0.375,
+            "det_score": 0.3525838851928711
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Conveyors_BaseRoller",
+            "det_x": 0.6697499752044678,
+            "det_y": 0.6478750109672546,
+            "det_w": 0.40149998664855957,
+            "det_h": 0.19224999845027924,
+            "det_score": 0.3710397481918335
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Conveyors_Bed",
+            "det_x": 0.5840833187103271,
+            "det_y": 0.562125027179718,
+            "det_w": 0.3408333361148834,
+            "det_h": 0.19975000619888306,
+            "det_score": 0.3716927170753479
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Conveyors_BaseRoller",
+            "det_x": 0.5136666893959045,
+            "det_y": 0.8009999990463257,
+            "det_w": 0.7926666736602783,
+            "det_h": 0.20100000500679016,
+            "det_score": 0.3967178463935852
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Conveyors_BaseRoller",
+            "det_x": 0.518833339214325,
+            "det_y": 0.800000011920929,
+            "det_w": 0.5993333458900452,
+            "det_h": 0.3465000092983246,
+            "det_score": 0.5513292551040649
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Conveyors_Bed",
+            "det_x": 0.5809999704360962,
+            "det_y": 0.5758749842643738,
+            "det_w": 0.2823333442211151,
+            "det_h": 0.32225000858306885,
+            "det_score": 0.5720648169517517
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0473.JPG",
+    "img_name": "IMG_0473",
+    "img_id": "73d3c3eec57c63e6206c3faa9736c4d43eb479fffda744f85245610a262351ba"
+}

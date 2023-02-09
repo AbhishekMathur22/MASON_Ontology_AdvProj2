@@ -1,0 +1,52 @@
+{
+    "detection": [
+        {
+            "det_cat": 6,
+            "det_name": "Conveyors_Bed",
+            "det_x": 0.21158333122730255,
+            "det_y": 0.546750009059906,
+            "det_w": 0.2828333377838135,
+            "det_h": 0.3174999952316284,
+            "det_score": 0.2794334888458252
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Conveyors_BaseRoller",
+            "det_x": 0.6228333115577698,
+            "det_y": 0.6775000095367432,
+            "det_w": 0.6366666555404663,
+            "det_h": 0.19699999690055847,
+            "det_score": 0.292087197303772
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Conveyors_Bed",
+            "det_x": 0.23991666734218597,
+            "det_y": 0.4932500123977661,
+            "det_w": 0.39116665720939636,
+            "det_h": 0.3370000123977661,
+            "det_score": 0.3252508044242859
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Conveyors_Bed",
+            "det_x": 0.48366665840148926,
+            "det_y": 0.4467499852180481,
+            "det_w": 0.25699999928474426,
+            "det_h": 0.28450000286102295,
+            "det_score": 0.3592575490474701
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Conveyors_BaseRoller",
+            "det_x": 0.6226666569709778,
+            "det_y": 0.687749981880188,
+            "det_w": 0.5139999985694885,
+            "det_h": 0.32249999046325684,
+            "det_score": 0.4490680396556854
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0494.JPG",
+    "img_name": "IMG_0494",
+    "img_id": "30ede494f2b4f19e984b16fb064a874c432685e795d4affb15419f824d3e2318"
+}

@@ -1,0 +1,52 @@
+{
+    "detection": [
+        {
+            "det_cat": 1,
+            "det_name": "Printer3D_Filament",
+            "det_x": 0.8770833611488342,
+            "det_y": 0.5692499876022339,
+            "det_w": 0.06183333322405815,
+            "det_h": 0.17000000178813934,
+            "det_score": 0.3129098117351532
+        },
+        {
+            "det_cat": 22,
+            "det_name": "Robot_BaseArm",
+            "det_x": 0.9584166407585144,
+            "det_y": 0.2901250123977661,
+            "det_w": 0.08316666632890701,
+            "det_h": 0.49674999713897705,
+            "det_score": 0.32579565048217773
+        },
+        {
+            "det_cat": 0,
+            "det_name": "Printer3D_Body",
+            "det_x": 0.39758333563804626,
+            "det_y": 0.46437498927116394,
+            "det_w": 0.21983332931995392,
+            "det_h": 0.3582499921321869,
+            "det_score": 0.32948291301727295
+        },
+        {
+            "det_cat": 24,
+            "det_name": "Robot_UpperArm",
+            "det_x": 0.9200000166893005,
+            "det_y": 0.18462499976158142,
+            "det_w": 0.13966666162014008,
+            "det_h": 0.14675000309944153,
+            "det_score": 0.3732506334781647
+        },
+        {
+            "det_cat": 24,
+            "det_name": "Robot_UpperArm",
+            "det_x": 0.9146666526794434,
+            "det_y": 0.1770000010728836,
+            "det_w": 0.09733333438634872,
+            "det_h": 0.12399999797344208,
+            "det_score": 0.4368692636489868
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0364.JPG",
+    "img_name": "IMG_0364",
+    "img_id": "4da363ec3b40363158ae1eec1fe71d4c716ece4cf9b0a061caa983c4ae144629"
+}

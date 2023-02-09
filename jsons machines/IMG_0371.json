@@ -1,0 +1,34 @@
+{
+    "detection": [
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.7958333492279053,
+            "det_y": 0.5,
+            "det_w": 0.40833333134651184,
+            "det_h": 1.0,
+            "det_score": 0.38562336564064026
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Printer3D",
+            "det_x": 0.2694999873638153,
+            "det_y": 0.547249972820282,
+            "det_w": 0.12333333492279053,
+            "det_h": 0.3075000047683716,
+            "det_score": 0.505664050579071
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Printer3D",
+            "det_x": 0.351666659116745,
+            "det_y": 0.5504999756813049,
+            "det_w": 0.18266665935516357,
+            "det_h": 0.38600000739097595,
+            "det_score": 0.666071355342865
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0371.JPG",
+    "img_name": "IMG_0371",
+    "img_id": "ecad1be96b9c8162609f6027b80c15785c7ae247e9a43dd310deeb2f7a889cdc"
+}

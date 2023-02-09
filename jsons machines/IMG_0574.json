@@ -1,0 +1,43 @@
+{
+    "detection": [
+        {
+            "det_cat": 6,
+            "det_name": "Robot",
+            "det_x": 0.7329999804496765,
+            "det_y": 0.4372499883174896,
+            "det_w": 0.2056666612625122,
+            "det_h": 0.5224999785423279,
+            "det_score": 0.3054322302341461
+        },
+        {
+            "det_cat": 2,
+            "det_name": "Drillpress",
+            "det_x": 0.14283333718776703,
+            "det_y": 0.6076250076293945,
+            "det_w": 0.1850000023841858,
+            "det_h": 0.7847499847412109,
+            "det_score": 0.3084455728530884
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Robot",
+            "det_x": 0.8837500214576721,
+            "det_y": 0.359375,
+            "det_w": 0.23250000178813934,
+            "det_h": 0.71875,
+            "det_score": 0.34119540452957153
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Robot",
+            "det_x": 0.6623333096504211,
+            "det_y": 0.45487499237060547,
+            "det_w": 0.312333345413208,
+            "det_h": 0.6802499890327454,
+            "det_score": 0.63100266456604
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0574.JPG",
+    "img_name": "IMG_0574",
+    "img_id": "61c6b5abc75d3b6f7bd8110f5dbfeeaf1a9e1b47f8b84455635efd6f9f2659ae"
+}

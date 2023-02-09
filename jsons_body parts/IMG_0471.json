@@ -1,0 +1,61 @@
+{
+    "detection": [
+        {
+            "det_cat": 5,
+            "det_name": "Conveyors_BaseRoller",
+            "det_x": 0.5612499713897705,
+            "det_y": 0.5692499876022339,
+            "det_w": 0.38749998807907104,
+            "det_h": 0.2759999930858612,
+            "det_score": 0.34393924474716187
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Conveyors_Bed",
+            "det_x": 0.5183333158493042,
+            "det_y": 0.5607500076293945,
+            "det_w": 0.3213333189487457,
+            "det_h": 0.2605000138282776,
+            "det_score": 0.3947606384754181
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Conveyors_BaseRoller",
+            "det_x": 0.4221666753292084,
+            "det_y": 0.7327499985694885,
+            "det_w": 0.8443333506584167,
+            "det_h": 0.17949999868869781,
+            "det_score": 0.436214804649353
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Conveyors_Bed",
+            "det_x": 0.7489166855812073,
+            "det_y": 0.5161250233650208,
+            "det_w": 0.3305000066757202,
+            "det_h": 0.414249986410141,
+            "det_score": 0.47491979598999023
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Conveyors_BaseRoller",
+            "det_x": 0.42524999380111694,
+            "det_y": 0.7323750257492065,
+            "det_w": 0.5901666879653931,
+            "det_h": 0.3407500088214874,
+            "det_score": 0.5340080857276917
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Conveyors_Bed",
+            "det_x": 0.4595833420753479,
+            "det_y": 0.512374997138977,
+            "det_w": 0.2641666531562805,
+            "det_h": 0.33924999833106995,
+            "det_score": 0.5563579797744751
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0471.JPG",
+    "img_name": "IMG_0471",
+    "img_id": "1942d65720170f61d7ff67061bb913b9bbe4ddc34318733eb14aa0a07335b6d2"
+}

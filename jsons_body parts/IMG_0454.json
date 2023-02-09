@@ -1,0 +1,61 @@
+{
+    "detection": [
+        {
+            "det_cat": 5,
+            "det_name": "Conveyors_BaseRoller",
+            "det_x": 0.5681666731834412,
+            "det_y": 0.6159999966621399,
+            "det_w": 0.5053333044052124,
+            "det_h": 0.4325000047683716,
+            "det_score": 0.2579762041568756
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Conveyors_Bed",
+            "det_x": 0.5208333134651184,
+            "det_y": 0.4021250009536743,
+            "det_w": 0.36666667461395264,
+            "det_h": 0.27175000309944153,
+            "det_score": 0.30664193630218506
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Conveyors_BaseRoller",
+            "det_x": 0.5615833401679993,
+            "det_y": 0.6101250052452087,
+            "det_w": 0.8768333196640015,
+            "det_h": 0.2122499942779541,
+            "det_score": 0.3508961498737335
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Conveyors_BaseRoller",
+            "det_x": 0.5195833444595337,
+            "det_y": 0.40525001287460327,
+            "det_w": 0.2944999933242798,
+            "det_h": 0.25049999356269836,
+            "det_score": 0.3955991566181183
+        },
+        {
+            "det_cat": 5,
+            "det_name": "Conveyors_BaseRoller",
+            "det_x": 0.5893333554267883,
+            "det_y": 0.6001250147819519,
+            "det_w": 0.8213333487510681,
+            "det_h": 0.4032500088214874,
+            "det_score": 0.4448540210723877
+        },
+        {
+            "det_cat": 6,
+            "det_name": "Conveyors_Bed",
+            "det_x": 0.628000020980835,
+            "det_y": 0.3551250100135803,
+            "det_w": 0.21799999475479126,
+            "det_h": 0.3492499887943268,
+            "det_score": 0.574958324432373
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0454.JPG",
+    "img_name": "IMG_0454",
+    "img_id": "e6f9b0b394c21dcb83c63cc00a0739335eb3c6188cb2b23769ee8a42db24093d"
+}

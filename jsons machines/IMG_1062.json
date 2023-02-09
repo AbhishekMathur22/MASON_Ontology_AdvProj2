@@ -1,0 +1,43 @@
+{
+    "detection": [
+        {
+            "det_cat": 3,
+            "det_name": "Lathe",
+            "det_x": 0.8985000252723694,
+            "det_y": 0.41362500190734863,
+            "det_w": 0.17599999904632568,
+            "det_h": 0.40825000405311584,
+            "det_score": 0.2640763521194458
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.8994166851043701,
+            "det_y": 0.40950000286102295,
+            "det_w": 0.20116665959358215,
+            "det_h": 0.2840000092983246,
+            "det_score": 0.32389867305755615
+        },
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.5678333044052124,
+            "det_y": 0.4636250138282776,
+            "det_w": 0.23899999260902405,
+            "det_h": 0.23675000667572021,
+            "det_score": 0.4647060036659241
+        },
+        {
+            "det_cat": 4,
+            "det_name": "MillingMachine",
+            "det_x": 0.784583330154419,
+            "det_y": 0.7052500247955322,
+            "det_w": 0.3395000100135803,
+            "det_h": 0.5774999856948853,
+            "det_score": 0.6932077407836914
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_1062.JPG",
+    "img_name": "IMG_1062",
+    "img_id": "d6c7da595c0d72588e3aba742946bad9123f938335acf60cbcc14bfcc803f341"
+}

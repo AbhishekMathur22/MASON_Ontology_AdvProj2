@@ -1,0 +1,16 @@
+{
+    "detection": [
+        {
+            "det_cat": 5,
+            "det_name": "Printer3D",
+            "det_x": 0.9633333086967468,
+            "det_y": 0.7894999980926514,
+            "det_w": 0.0533333346247673,
+            "det_h": 0.28600001335144043,
+            "det_score": 0.3151247501373291
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_0352.JPG",
+    "img_name": "IMG_0352",
+    "img_id": "92b9d54436d8ad13d2738866bd2ac0d6a0a5198b21d8bc236137ff79a0b9e13c"
+}

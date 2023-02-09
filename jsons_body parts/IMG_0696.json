@@ -1,0 +1,16 @@
+{
+    "detection": [
+        {
+            "det_cat": 1,
+            "det_name": "Printer3D_Filament",
+            "det_x": 0.28441667556762695,
+            "det_y": 0.4883750081062317,
+            "det_w": 0.018833333626389503,
+            "det_h": 0.04625000059604645,
+            "det_score": 0.4305668771266937
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0696.JPG",
+    "img_name": "IMG_0696",
+    "img_id": "9ede8865ddb0275635fdec22ec93fe72ea7634b329e0cf97110c6658efee8f2d"
+}

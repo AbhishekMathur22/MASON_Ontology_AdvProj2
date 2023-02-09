@@ -1,0 +1,16 @@
+{
+    "detection": [
+        {
+            "det_cat": 4,
+            "det_name": "BandSaw_WorkTable",
+            "det_x": 0.47458332777023315,
+            "det_y": 0.6340000033378601,
+            "det_w": 0.7788333296775818,
+            "det_h": 0.37450000643730164,
+            "det_score": 0.36212432384490967
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0990.JPG",
+    "img_name": "IMG_0990",
+    "img_id": "6932ea92b94834f575c711dab2014a0edb3b4a70b4a6ef1e8ab4566380328b68"
+}

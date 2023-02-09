@@ -1,0 +1,34 @@
+{
+    "detection": [
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.3527500033378601,
+            "det_y": 0.4372499883174896,
+            "det_w": 0.21250000596046448,
+            "det_h": 0.6480000019073486,
+            "det_score": 0.2684243321418762
+        },
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.3451666533946991,
+            "det_y": 0.11400000005960464,
+            "det_w": 0.1679999977350235,
+            "det_h": 0.22550000250339508,
+            "det_score": 0.2698403596878052
+        },
+        {
+            "det_cat": 0,
+            "det_name": "BandSaw",
+            "det_x": 0.36808332800865173,
+            "det_y": 0.42399999499320984,
+            "det_w": 0.33649998903274536,
+            "det_h": 0.5674999952316284,
+            "det_score": 0.5549922585487366
+        }
+    ],
+    "img_path": "/Users/kritkorns/Mike/Jacob/AdvancedProject2/rawdata/machine/images/IMG_1000.JPG",
+    "img_name": "IMG_1000",
+    "img_id": "db0848bdfa81d5bdb47e97c4515f69272385994a704aabe1fb0b2271a080653f"
+}

@@ -1,0 +1,16 @@
+{
+    "detection": [
+        {
+            "det_cat": 21,
+            "det_name": "MillingMachine_WorkTable",
+            "det_x": 0.6298333406448364,
+            "det_y": 0.6196249723434448,
+            "det_w": 0.2070000022649765,
+            "det_h": 0.12174999713897705,
+            "det_score": 0.2768588066101074
+        }
+    ],
+    "img_path": "/data/home/mike/advanced_project2/dataset/machines/IMG_0935.JPG",
+    "img_name": "IMG_0935",
+    "img_id": "c313310c37f2f073ec31ed05351781fffbbba1b374763244c49158f911cf15c6"
+}
